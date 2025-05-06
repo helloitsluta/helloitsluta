@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Luta!
 
-<!--
-**helloitsluta/helloitsluta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer specializing in building intuitive, fast, and scalable user interfaces with **React**, **TypeScript**, and **Tailwind CSS**.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages**: TypeScript, JavaScript (ES6+), HTML, CSS
+- **Frameworks**: React, Redux Toolkit, Next.js
+- **Styling**: Tailwind CSS, Styled Components
+- **Tools**: Git, Vercel, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Featured Projects
+- **Fisher App** – Full frontend development for a fisherman community platform  
+  *(React, Tailwind, Redux, Auth, Notification, Inquiry features)*  
+- **D-Meta Website** – Company homepage built with React  
+- **Invoice Automation Tool** – JavaScript-based AI OCR integration
+
+## ✉️ Contact
+- Email: jake1101w@gmail.com
+- Portfolio: 
+
+Thanks for visiting!
